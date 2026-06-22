@@ -9,7 +9,7 @@ import librosa
 # =========================================================
 # CONFIGURATION 
 # =========================================================
-SPEAKER_NAME = 'Winki' 
+SPEAKER_NAME = 'Winki'
 input_file = 'Winki_MiniProject.wav'
 
 frame_period = 5.0
